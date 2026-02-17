@@ -1,4 +1,4 @@
-#GreenCampus
+
 GreenCampus is a simple digital tool that aims to encourage students to take the initiative and take steps to be more sustainable on campus. The idea behind how this tool works is by giving students an interactive journal-like record where they can log eco-friendly actions such as recycling, turning off unused lights, or walking instead of driving. GreenCampus will reward these students with “green stars,” making sustainability fun, engaging, and promoting small daily actions that can have a greater positive impact on the environment.
 
 Various simple tools can help build GreenCampus, such as:
